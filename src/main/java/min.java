@@ -3,5 +3,6 @@ public class min {
         System.out.println("saasas");
         System.out.println("saaaaaaa");
         System.out.println("aaaaaa");
+        System.out.println("bbbbb");
     }
 }
