@@ -5,5 +5,7 @@ public class min {
         System.out.println("aaaaaa");
         System.out.println("bbbbb");
         System.out.println("aaaaa");
+    
+        System.out.println("aaaaa");
     }
 }
